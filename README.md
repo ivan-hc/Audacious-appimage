@@ -3,6 +3,10 @@ Unofficial. An open source audio and music player, descendant of XMMS.
 
 ------------------------------------------------------------------------
 
+Archived in favour of https://github.com/pkgforge-dev/Audacious-AppImage on July 4, 2026
+
+------------------------------------------------------------------------
+
 ## Install and update it with ease
 
 ### *"*AM*" Application Manager* 
